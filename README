@@ -1,0 +1,5 @@
+Some bash commands I find useful to have on hand. Add to this!
+
+I like to mark completed branches with either a yCOMPLETED_ or zABANDONED_ prefix to
+more easily sort them.  I also rarely want to see these branches, so I made an alias
+to print out all current branches.
